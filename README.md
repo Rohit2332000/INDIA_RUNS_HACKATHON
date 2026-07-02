@@ -380,7 +380,7 @@ https://your-app.streamlit.app
 
 # 👨‍💻 Author
 
-**Rohit Yadav**
+**Rohit Kumar Yadav**
 
 AI | Machine Learning | GenAI | NLP | Information Retrieval
 
