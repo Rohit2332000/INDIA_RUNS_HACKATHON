@@ -11,11 +11,11 @@ team_name: "RecruitRankAI"
 
 primary_contact:
   name: "Rohit  Kumar Yadav"
-  email: "your_email@example.com"
+  email: "rohitrana2332000@gmail.com"
   phone: "+91-8126380717"
 
 team_members:
-  - name: "Rohit kuamr Yadav"
+  - name: "Rohit Kumar Yadav"
     email: "rohitrana2332000@gmail.com"
     role: "AI/ML Engineer"
 
@@ -23,9 +23,9 @@ team_members:
 # Code and reproducibility
 # ============================================================================
 
-github_repo: "https://github.com/YOUR_USERNAME/RecruitRankAI"
+github_repo: "https://github.com/Rohit2332000/INDIA_RUNS_HACKATHON"
 
-sandbox_link: "https://YOUR_STREAMLIT_APP.streamlit.app"
+sandbox_link: "https://india-runs-hackathon-2.onrender.com/"
 
 reproduce_command: "python -m pipeline.inference"
 
@@ -37,7 +37,7 @@ compute:
   platform: "Windows 11 Laptop"
   cpu_cores: 8
   ram_gb: 16
-  python_version: "3.11"
+  python_version: "3.11.11"
   os: "Windows 11"
   uses_gpu_for_inference: false
   has_network_during_ranking: false
