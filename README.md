@@ -336,7 +336,7 @@ streamlit run streamlit_app.py
 
 **Live Streamlit Demo**
 
-> Add your deployed Streamlit URL here
+https://india-runs-hackathon-2.onrender.com/
 
 ```text
 https://your-app.streamlit.app
