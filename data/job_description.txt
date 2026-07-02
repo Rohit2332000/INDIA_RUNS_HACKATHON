@@ -1,0 +1,65 @@
+Job Title: Senior Java Backend Developer
+
+Location: Chennai, India
+Work Mode: Onsite
+
+Experience Required:
+5–9 Years
+
+Job Description
+
+We are looking for an experienced Java Backend Developer to design, develop, and maintain scalable enterprise applications. The ideal candidate should have strong experience in Java, Spring Boot, Microservices, SQL, and cloud deployment.
+
+Responsibilities
+
+• Design and develop RESTful APIs
+• Build scalable backend services using Java and Spring Boot
+• Develop Microservices-based applications
+• Write optimized SQL queries and database procedures
+• Work with MySQL and PostgreSQL
+• Deploy applications using Docker and Kubernetes
+• Collaborate with frontend developers and QA teams
+• Participate in code reviews and Agile ceremonies
+• Troubleshoot production issues
+
+Required Skills
+
+- Java
+- Spring Boot
+- Spring MVC
+- Microservices
+- REST APIs
+- SQL
+- MySQL
+- PostgreSQL
+- Hibernate
+- Maven
+- Git
+- Docker
+- Kubernetes
+- Redis
+- Kafka
+- AWS
+- Linux
+
+Preferred Skills
+
+- Jenkins
+- CI/CD
+- RabbitMQ
+- Elasticsearch
+- Unit Testing (JUnit)
+- System Design
+
+Education
+
+Bachelor's degree in Computer Science, Information Technology, or related field.
+
+Preferred Locations
+
+- Chennai
+- Bengaluru
+
+Preferred Work Mode
+
+Onsite

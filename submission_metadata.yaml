@@ -1,0 +1,91 @@
+
+# ============================================================================
+# RecruitRankAI - Redrob Hackathon Submission Metadata
+# ============================================================================
+
+# ============================================================================
+# Team identity
+# ============================================================================
+
+team_name: "RecruitRankAI"
+
+primary_contact:
+  name: "Rohit  Kumar Yadav"
+  email: "your_email@example.com"
+  phone: "+91-8126380717"
+
+team_members:
+  - name: "Rohit kuamr Yadav"
+    email: "rohitrana2332000@gmail.com"
+    role: "AI/ML Engineer"
+
+# ============================================================================
+# Code and reproducibility
+# ============================================================================
+
+github_repo: "https://github.com/YOUR_USERNAME/RecruitRankAI"
+
+sandbox_link: "https://YOUR_STREAMLIT_APP.streamlit.app"
+
+reproduce_command: "python -m pipeline.inference"
+
+# ============================================================================
+# Compute environment
+# ============================================================================
+
+compute:
+  platform: "Windows 11 Laptop"
+  cpu_cores: 8
+  ram_gb: 16
+  python_version: "3.11"
+  os: "Windows 11"
+  uses_gpu_for_inference: false
+  has_network_during_ranking: false
+  pre_computation_required: true
+  pre_computation_time_minutes: 2
+
+# ============================================================================
+# AI tools declaration
+# ============================================================================
+
+ai_tools_used:
+  - "ChatGPT"
+
+ai_usage_summary: |
+  ChatGPT was used as a development assistant for brainstorming,
+  debugging, architecture discussions, code refactoring, documentation,
+  and improving the Streamlit interface. All implementation, testing,
+  integration, and validation of the ranking pipeline were completed by
+  the author. No candidate data was sent to external APIs during ranking,
+  and the final inference pipeline runs completely offline.
+
+# ============================================================================
+# Approach summary
+# ============================================================================
+
+methodology_summary: |
+  RecruitRankAI is an AI-powered candidate ranking system that combines
+  semantic retrieval with hybrid feature-based ranking. Candidate profiles
+  are preprocessed to extract structured information including skills,
+  experience, education, certifications, recruiter behaviour, and career
+  stability. Candidate documents are embedded using the
+  sentence-transformers/all-MiniLM-L6-v2 model and indexed with FAISS for
+  efficient semantic retrieval. The hybrid ranker combines semantic
+  similarity, skill matching, experience fit, technical strength,
+  education, behaviour, career stability, and location preference into a
+  weighted final score. Explainable reasoning is generated for every ranked
+  candidate to improve recruiter transparency. The Streamlit application
+  demonstrates the complete pipeline from Job Description input to ranked
+  CSV generation within the required CPU compute budget.
+
+# ============================================================================
+# Declarations
+# ============================================================================
+
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done: false
+  reproduction_tested: true
+

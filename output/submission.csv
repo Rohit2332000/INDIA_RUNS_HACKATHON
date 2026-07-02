@@ -1,0 +1,51 @@
+candidate_id,rank,score,reasoning
+CAND_0000031,1,0.5875062934203236,Strong semantic similarity to the required role. Relevant AI skills present. 5.8 years of relevant experience. Current role (recommendation systems engineer) is highly relevant. Computer Science related educational background. Excellent recruiter and platform engagement. Experience with vector databases.
+CAND_0000001,2,0.4985650097525165,Moderate semantic relevance. Strong AI and Machine Learning skillset. 6.8 years of relevant experience. Current role (backend engineer) is highly relevant. Computer Science related educational background. Strong technical profile. Good professional activity. Stable career progression. Strong cloud platform experience. Experience with vector databases.
+CAND_0000010,3,0.4730328564428804,Moderate semantic relevance. Relevant AI skills present. Computer Science related educational background. Excellent recruiter and platform engagement. Stable career progression. Strong cloud platform experience.
+CAND_0000027,4,0.4528595983007539,Moderate semantic relevance. Computer Science related educational background. Excellent recruiter and platform engagement. Strong cloud platform experience.
+CAND_0000025,5,0.4452879762890334,Moderate semantic relevance. 7.2 years of relevant experience. Stable career progression.
+CAND_0000046,6,0.44079540028663977,Moderate semantic relevance. 7.8 years of relevant experience. Computer Science related educational background. Excellent recruiter and platform engagement. Stable career progression.
+CAND_0000050,7,0.4387127078396912,Strong semantic similarity to the required role. Extensive industry experience. Computer Science related educational background. Excellent recruiter and platform engagement. Stable career progression.
+CAND_0000024,8,0.43789819362028426,Moderate semantic relevance. 7.4 years of relevant experience. Computer Science related educational background. Excellent recruiter and platform engagement. Stable career progression. Strong cloud platform experience.
+CAND_0000038,9,0.43082066483998643,Moderate semantic relevance. 6.6 years of relevant experience. Computer Science related educational background. Excellent recruiter and platform engagement. Stable career progression. Strong cloud platform experience. Experience with vector databases.
+CAND_0000032,10,0.4297692988934381,Moderate semantic relevance. 7.9 years of relevant experience. Computer Science related educational background. Stable career progression.
+CAND_0000033,11,0.42906128395151966,Moderate semantic relevance. 8.5 years of relevant experience. Computer Science related educational background. Excellent recruiter and platform engagement. Stable career progression.
+CAND_0000029,12,0.42816069481048635,Moderate semantic relevance. 7.1 years of relevant experience. Computer Science related educational background. Excellent recruiter and platform engagement. Stable career progression.
+CAND_0000015,13,0.42420183267134426,Moderate semantic relevance. Relevant AI skills present. 5.3 years of relevant experience. Experience with vector databases.
+CAND_0000044,14,0.4239406879543093,Moderate semantic relevance. 5.7 years of relevant experience. Computer Science related educational background. Stable career progression.
+CAND_0000043,15,0.4229086096441587,Moderate semantic relevance. Strong AI and Machine Learning skillset. 8.2 years of relevant experience. Computer Science related educational background. Stable career progression.
+CAND_0000014,16,0.4211118073475377,Strong semantic similarity to the required role. 8.3 years of relevant experience. Stable career progression. Experience with vector databases.
+CAND_0000007,17,0.4206693967570094,Moderate semantic relevance. 5.4 years of relevant experience. Computer Science related educational background. Stable career progression.
+CAND_0000035,18,0.4193609360183545,Moderate semantic relevance. Computer Science related educational background. Stable career progression.
+CAND_0000018,19,0.41866738486804195,Moderate semantic relevance. 6.5 years of relevant experience. Computer Science related educational background. Stable career progression.
+CAND_0000020,20,0.4162696059988252,Strong semantic similarity to the required role. 6.2 years of relevant experience. Computer Science related educational background. Stable career progression.
+CAND_0000030,21,0.414850748184879,Strong semantic similarity to the required role. 9.8 years of relevant experience. Computer Science related educational background. Good professional activity. Stable career progression.
+CAND_0000037,22,0.411486973600351,Strong semantic similarity to the required role. Extensive industry experience. Computer Science related educational background. Stable career progression. Strong cloud platform experience.
+CAND_0000048,23,0.405440429216969,Moderate semantic relevance. 9.5 years of relevant experience. Computer Science related educational background. Stable career progression.
+CAND_0000041,24,0.3968818119680258,Strong semantic similarity to the required role. Extensive industry experience. Computer Science related educational background. Stable career progression. Strong cloud platform experience.
+CAND_0000026,25,0.3948217631382707,Moderate semantic relevance. 6.7 years of relevant experience. Computer Science related educational background. Stable career progression. Strong cloud platform experience.
+CAND_0000023,26,0.39309338203653615,Moderate semantic relevance. Computer Science related educational background. Excellent recruiter and platform engagement.
+CAND_0000021,27,0.3892617810149649,Strong semantic similarity to the required role. Relevant AI skills present. Extensive industry experience. Computer Science related educational background. Stable career progression. Experience with vector databases.
+CAND_0000009,28,0.3868613272641879,Moderate semantic relevance. Extensive industry experience. Computer Science related educational background. Stable career progression.
+CAND_0000049,29,0.38220705857984105,Moderate semantic relevance. Extensive industry experience. Stable career progression.
+CAND_0000008,30,0.37263379872652436,Strong semantic similarity to the required role. Computer Science related educational background. Stable career progression.
+CAND_0000006,31,0.3725191406672188,Moderate semantic relevance. 5.9 years of relevant experience. Computer Science related educational background. Stable career progression.
+CAND_0000011,32,0.37139087548354505,Moderate semantic relevance. Computer Science related educational background. Excellent recruiter and platform engagement. Strong cloud platform experience.
+CAND_0000045,33,0.3711005406081186,Strong semantic similarity to the required role. Extensive industry experience. Computer Science related educational background.
+CAND_0000013,34,0.37099475529986453,Moderate semantic relevance. Computer Science related educational background. Excellent recruiter and platform engagement.
+CAND_0000019,35,0.36765942882152947,Strong semantic similarity to the required role. 6.4 years of relevant experience. Computer Science related educational background. Stable career progression. Strong cloud platform experience.
+CAND_0000036,36,0.3673161014024299,Strong semantic similarity to the required role. Extensive industry experience. Stable career progression.
+CAND_0000016,37,0.3659746582717499,Moderate semantic relevance. 5.2 years of relevant experience. Computer Science related educational background. Excellent recruiter and platform engagement.
+CAND_0000017,38,0.3585299164415029,Moderate semantic relevance. Extensive industry experience. Computer Science related educational background. Stable career progression.
+CAND_0000039,39,0.35761297001030523,Strong semantic similarity to the required role. Computer Science related educational background.
+CAND_0000034,40,0.35411404923347345,Strong semantic similarity to the required role. Extensive industry experience. Computer Science related educational background.
+CAND_0000005,41,0.3534550132858814,Moderate semantic relevance. Extensive industry experience. Computer Science related educational background. Stable career progression.
+CAND_0000004,42,0.35258773571271984,Moderate semantic relevance. Computer Science related educational background.
+CAND_0000002,43,0.3393701285082745,Strong semantic similarity to the required role. Extensive industry experience. Stable career progression.
+CAND_0000042,44,0.32736069768499526,Moderate semantic relevance. 4.9 years of relevant experience.
+CAND_0000022,45,0.30045421932889804,Moderate semantic relevance. Computer Science related educational background.
+CAND_0000028,46,0.28434298900352084,Strong semantic similarity to the required role.
+CAND_0000047,47,0.2831029066748924,Moderate semantic relevance.
+CAND_0000003,48,0.2766408066436825,Moderate semantic relevance. Computer Science related educational background.
+CAND_0000040,49,0.26614258514130484,Moderate semantic relevance.
+CAND_0000012,50,0.23214233481901506,Moderate semantic relevance. Strong cloud platform experience.
