@@ -2,7 +2,7 @@ streamlit
 pandas==2.2.3
 numpy==2.2.4
 sentence-transformers==3.4.1
-faiss-cpu==1.10.0
+faiss-cpu==1.8.0
 scikit-learn==1.6.1
 spacy==3.8.4
 rapidfuzz==3.12.2
